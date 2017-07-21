@@ -15,8 +15,7 @@ The complete source of the book is available [online](https://github.com/csgille
     ```
     
 1. Clone the efficientR [repository](https://github.com/csgillespie/efficientR)
-  * See the chapter \@ref(collaboration) on Efficient collaboration for an introduction
-  to git and github.
+    * See the chapter \@ref(collaboration) on Efficient collaboration for an introduction to git and github.
 1. If you are using `RStudio`, open `index.Rmd` and click `Knit`.
     * Alternatively (for mainly Linux users) you can use the bundled `Makefile`
 
